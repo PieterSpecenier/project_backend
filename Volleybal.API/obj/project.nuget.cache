@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "duXodBGr6OI5EGXQMazPyso3vk3xAgSWXGZXX5gJDZvq+O4p6uiOEp7e1VrFmIMvvUFBcSPIePfW5XsuTblGfA==",
+  "dgSpecHash": "ROSRNtHRXHypw+kF2bxTL7rAhb3ysKrYb/3gqY3BIAD8J2o4+Sb+CDXyx2zk0vtV4tiGnQOmQ5d9wB78tKY/PQ==",
   "success": true,
-  "projectFilePath": "c:\\src\\project_backend\\Volleybal.API\\project_backend_dev.csproj",
+  "projectFilePath": "C:\\src\\project_backend\\Volleybal.API\\project_backend_dev.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\piete\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\piete\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
